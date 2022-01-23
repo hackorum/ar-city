@@ -1,1 +1,0 @@
-This project is done by Neil Sabde.
